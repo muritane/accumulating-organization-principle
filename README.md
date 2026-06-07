@@ -1,110 +1,136 @@
 # The Accumulating Organization Principle
 
-## A Structural Theory of Discovery, Memory, Layer Formation, and Civilizational Growth
+## An Axiomatic Theory of Discovery, Retention, Layer Formation, and Open-Ended Complexity
 
 ---
 
 # Abstract
 
-Reality exhibits cumulative organization.
+Reality exhibits persistent accumulation of organization.
 
-Physics gives rise to chemistry.
+Known examples include:
 
-Chemistry gives rise to biology.
+```text
+unknown substrate
+    ↓
+quarks
+    ↓
+atoms
+    ↓
+molecules
+    ↓
+cells
+    ↓
+organisms
+    ↓
+minds
+    ↓
+cultures
+    ↓
+civilizations
+    ↓
+unknown future layers
+```
 
-Biology gives rise to cognition.
-
-Cognition gives rise to culture.
-
-Culture gives rise to science and technology.
-
-The central question is:
-
-> Why does organization accumulate rather than continuously restarting or collapsing?
-
-This principle proposes that accumulation occurs when discovered organization becomes sufficiently stable, reproducible, retainable, and composable to participate in future organization.
-
-Variation generates possibilities.
-
-Selection filters possibilities.
-
-Retention preserves selected organization.
-
-Preserved organization becomes reusable.
-
-Reusable organization supports composition.
-
-Composition creates larger spaces of possibility.
-
-Accumulation occurs only when retained organization remains stable enough to support future accumulation.
-
-When retention fails, accumulated organization degrades.
-
-When degradation exceeds retention, layers collapse.
-
----
-
-# 1. The Fundamental Question
-
-Reality contains layered architectures.
-
-Atoms support chemistry.
-
-Chemistry supports cells.
-
-Cells support organisms.
-
-Organisms support minds.
-
-Minds support language.
-
-Language supports institutions.
-
-Institutions support science.
-
-The central problem is not merely:
+The central question is not merely:
 
 > How do new structures appear?
 
-The deeper problem is:
+The deeper question is:
 
-> How do useful structures remain available long enough to become foundations for future structures?
+> How do organizational achievements remain available long enough to become foundations for future achievements?
 
-Most possibilities disappear.
+This theory proposes that accumulation occurs when generated possibilities are selectively retained as stable reusable participants that remain available for future composition.
 
-Most discoveries are lost.
+Accumulation is neither automatic nor guaranteed.
 
-Only a small subset become persistent organizational achievements.
+It depends on a minimal set of organizational conditions.
+
+When those conditions persist, complexity accumulates.
+
+When they fail, accumulated organization degrades and higher layers collapse.
+
+The theory remains explicitly open to unknown past and future layers through the Pending Interface Axiom.
 
 ---
 
-# 2. Discovery
+# 1. The Central Observation
 
-Systems continuously explore possibility spaces.
+Reality contains organizational layers.
 
-Discovery may occur through:
+Atoms support chemistry.
+
+Chemistry supports biology.
+
+Biology supports cognition.
+
+Cognition supports culture.
+
+Culture supports science and technology.
+
+Each layer inherits organizational achievements from prior layers.
+
+The existence of such layers suggests that reality possesses mechanisms capable of preserving successful organization across time.
+
+The problem therefore becomes:
+
+> What conditions are necessary for organization to accumulate rather than continuously restart?
+
+---
+
+# 2. The Pending Interface Axiom
+
+The internal mechanisms of all layers need not be known.
+
+Observed accumulation only requires that adjacent layers expose compatible organizational interfaces.
+
+Therefore:
+
+> Whenever accumulation is observed, some mechanism must exist that supplies sufficiently stable participants, constraints, throughput, and composability to support the next layer.
+
+Unknown layers should not be assigned speculative internal structure.
+
+Instead they are represented as organizational interfaces.
+
+Thus:
+
+```text
+Unknown Layer A
+      ↓
+Known Layer B
+      ↓
+Known Layer C
+      ↓
+Unknown Layer D
+```
+
+remains a valid representation.
+
+The theory therefore remains open to future observations.
+
+---
+
+# 3. Axiom 1: Candidate Generation
+
+Systems generate possible organizational configurations.
+
+Generation may arise from:
 
 * physical dynamics,
 * chemical interaction,
-* biological evolution,
+* mutation,
 * learning,
 * experimentation,
 * innovation,
-* scientific inquiry.
+* exploration.
 
-Discovery generates candidate organizations.
-
-Most fail.
-
-Some survive.
+Without generation, no new organizational possibilities appear.
 
 ---
 
-# 3. Selection
+# 4. Axiom 2: Constraint Selection
 
-Not all discovered organizations remain viable.
-
-Selection filters possibilities according to governing constraints.
+Generated possibilities are filtered by governing constraints.
 
 Examples include:
 
@@ -115,23 +141,23 @@ Examples include:
 * engineering usefulness,
 * institutional viability.
 
-Selection reduces possibility spaces.
+Only a subset of possibilities survive selection.
 
-Only a subset of discoveries remain available for retention.
+Selection reduces possibility spaces.
 
 ---
 
-# 4. Retention
+# 5. Axiom 3: Retention
 
-Selection alone cannot produce accumulation.
+Selected configurations must persist.
 
 A successful discovery that immediately disappears contributes nothing to future organization.
 
-Retention preserves selected organizational achievements.
+Retention converts transient success into persistent structure.
 
 Examples include:
 
-* atomic structure,
+* atomic stability,
 * genetic inheritance,
 * memory,
 * language,
@@ -139,17 +165,94 @@ Examples include:
 * software,
 * institutions.
 
-Retention converts transient success into persistent organizational structure.
+Without retention, accumulation restarts continuously.
 
 ---
 
-# 5. Organizational Memory
+# 6. Axiom 4: Stabilized Reusability
+
+Retained structures must remain usable.
+
+A reusable participant:
+
+* preserves identity,
+* survives interaction,
+* exhibits predictable behavior,
+* supports repeated use.
+
+Examples include:
+
+* atoms,
+* cells,
+* genes,
+* words,
+* algorithms,
+* tools,
+* institutions.
+
+Retention alone is insufficient.
+
+The retained structure must remain operational.
+
+---
+
+# 7. Axiom 5: Composition
+
+Reusable participants must be combinable.
+
+Composition transforms retained achievements into larger achievements.
+
+Examples include:
+
+```text
+atoms → molecules
+molecules → cells
+cells → organisms
+words → language
+algorithms → software
+institutions → civilizations
+```
+
+Without composition, retained organization remains isolated.
+
+No higher layers emerge.
+
+---
+
+# 8. Axiom 6: Throughput Dependence
+
+Organization requires ongoing support.
+
+Retention is not free.
+
+All organizational structures depend upon sufficient throughput.
+
+Throughput may consist of:
+
+* energy,
+* matter,
+* information,
+* maintenance activity.
+
+Examples include:
+
+* stellar energy supporting chemistry,
+* metabolism supporting organisms,
+* food supporting cognition,
+* infrastructure supporting civilization,
+* computation supporting software systems.
+
+When throughput fails, retention eventually fails.
+
+---
+
+# 9. Organizational Memory
 
 Retention creates memory.
 
 Memory is preserved discovery.
 
-Memory exists at many scales:
+Memory exists across many scales.
 
 ## Physical Memory
 
@@ -175,55 +278,13 @@ Tools and software preserve engineering discoveries.
 
 Organizations preserve social discoveries.
 
-Without memory, accumulation restarts.
+Memory allows accumulation to continue across time.
 
 ---
 
-# 6. Reusable Participants
+# 10. Layer Formation
 
-Some retained structures become reusable participants.
-
-A reusable participant:
-
-* maintains identity,
-* survives interaction,
-* exhibits predictable behavior,
-* supports repeated composition.
-
-Examples include:
-
-* atoms,
-* cells,
-* words,
-* algorithms,
-* tools,
-* institutions.
-
-Reusable participants carry accumulated organization forward.
-
----
-
-# 7. Composition
-
-Accumulation requires composition.
-
-Retained structures combine to form larger structures.
-
-Examples include:
-
-* atoms into molecules,
-* molecules into cells,
-* words into language,
-* algorithms into software,
-* institutions into civilizations.
-
-Composition transforms retained discoveries into higher-order organization.
-
----
-
-# 8. Layer Formation
-
-A new layer forms when reusable participants become sufficiently stable and composable to function as building blocks for future organization.
+A new layer emerges when retained participants become sufficiently stable and composable to function as building blocks for future organization.
 
 Examples include:
 
@@ -235,57 +296,92 @@ Examples include:
 * cultures,
 * technological systems.
 
-Higher layers inherit organizational achievements from lower layers.
+Layers are therefore not independent creations.
 
-No layer appears independently.
-
----
-
-# 9. Accumulation Condition
-
-Accumulation is not automatic.
-
-For accumulation to occur:
-
-* discovery must generate possibilities,
-* selection must preserve viable structures,
-* retention must preserve discoveries,
-* reusable participants must remain stable,
-* composition must remain possible.
-
-If any requirement fails, accumulation slows or stops.
+They are consequences of accumulated prior organization.
 
 ---
 
-# 10. Collapse Condition
+# 11. Minimal Sufficiency Theorem
 
-Accumulated organization can be lost.
+An accumulating organization requires:
+
+1. generation,
+2. selection,
+3. retention,
+4. stabilized reusability,
+5. composition,
+6. throughput,
+7. interface continuity.
+
+Removal of any condition prevents sustained accumulation.
+
+Therefore these conditions are jointly minimally sufficient for organizational accumulation.
+
+---
+
+# 12. Accumulation Dynamics
+
+Let:
+
+```text
+D = generated possibilities
+S = selected possibilities
+R = retained structures
+G = degradation
+A = accumulated organization
+```
+
+Then:
+
+```text
+A(t+1) = A(t) + R(S(D)) - G
+```
+
+Accumulation occurs when:
+
+```text
+R(S(D)) > G
+```
+
+Organizational capacity grows.
 
 Collapse occurs when:
 
-Degradation Rate > Retention Rate
+```text
+G > R(S(D))
+```
 
-Examples include:
-
-* extinction,
-* institutional failure,
-* loss of knowledge,
-* ecosystem collapse,
-* civilizational decline.
-
-Layered architectures persist only while retention exceeds degradation.
-
-Accumulation is therefore conditional rather than inevitable.
+Organizational capacity shrinks.
 
 ---
 
-# 11. Civilization
+# 13. Collapse
+
+Accumulation is conditional.
+
+Losses continuously occur through:
+
+* entropy,
+* decay,
+* forgetting,
+* extinction,
+* institutional failure,
+* infrastructure degradation.
+
+Collapse occurs when retention and regeneration can no longer compensate for degradation.
+
+Higher layers then lose access to the organizational achievements upon which they depend.
+
+---
+
+# 14. Civilization
 
 Civilizations are large-scale accumulation systems.
 
 Science generates discoveries.
 
-Education preserves discoveries.
+Education retains discoveries.
 
 Infrastructure preserves capabilities.
 
@@ -293,18 +389,46 @@ Institutions preserve coordination.
 
 Technology preserves engineering achievements.
 
-Civilizational growth occurs when retained organization accumulates faster than it is lost.
+Civilizational growth occurs when organizational accumulation exceeds organizational loss.
 
-Civilizational decline occurs when losses exceed preservation.
+Civilizational decline occurs when organizational loss exceeds organizational accumulation.
+
+---
+
+# 15. Open-Ended Future Layers
+
+The theory does not assume civilization is the final layer.
+
+Future layers may include forms of organization currently unknown.
+
+Examples might include:
+
+```text
+planetary-scale systems
+multi-planetary systems
+stellar-scale systems
+post-biological systems
+currently unimaginable forms
+```
+
+The theory does not predict their structure.
+
+It only predicts that any future layer capable of accumulation must satisfy the same organizational requirements.
+
+Thus the theory remains compatible with unknown future discoveries.
 
 ---
 
 # General Principle
 
-Organization accumulates when discovery, selection, retention, and composition jointly transform transient successes into reusable participants that support future organization.
+Organization accumulates when generated possibilities are selectively retained as stable reusable participants, sustained by sufficient throughput, and made available through organizational interfaces for future composition.
 
-Layered reality emerges from the recursive accumulation of reusable organizational achievements.
+Layered reality emerges from the recursive accumulation of retained organizational achievements.
 
-Accumulation persists only while retention and stabilization exceed degradation.
+The internal structure of unknown layers remains unspecified.
 
-When stabilization fails, accumulated organization collapses and future layers lose their foundations.
+Only their organizational interface is assumed.
+
+Accumulation persists only while retention, stabilization, and regeneration exceed degradation.
+
+When these conditions fail, accumulated organization collapses and future layers lose their foundations.
